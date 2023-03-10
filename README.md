@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-T0KMALA5S7I/W5EsCG3BnXI/AAAAAAAAAt4/ZCUyX1nBfPIJ7AehTfBFvF55rWMLR_7RQCLcBGAs/s1600/AI-1.gif)](https://www.linkedin.com/in/anjana-kavidu-machinel)
+[![MasterHead](https://www.social4retail.com/uploads/1/0/9/8/10981970/529290150_orig.gif)](https://www.linkedin.com/in/anjana-kavidu-machinel)
 <h1 align="center">Hi 👋, I'm Anjana Kavidu</h1>
 <h3 align="center">A machine learning, NLP developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
