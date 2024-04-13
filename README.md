@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/kaviduanjana" target="blank"><img src="https://img.shields.io/twitter/follow/kaviduanjana?logo=twitter&style=for-the-badge" alt="kaviduanjana" /></a> </p>
 
-- 🔭 I’m currently working on **fiverr**
+- 🔭 Freelancer @ **fiverr**
 
-- 🌱 I’m currently learning **Natural Language Processing (NLP)**
+- 🌱 Learning **Natural Language Processing (NLP)**
 
 - 💬 Ask me about **python, TensorFlow, Scikit-Learn**
 
