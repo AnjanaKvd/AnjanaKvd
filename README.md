@@ -6,15 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaviduanjana" target="blank"><img src="https://img.shields.io/twitter/follow/kaviduanjana?logo=twitter&style=for-the-badge" alt="kaviduanjana" /></a> </p>
 
-- 🔭 Freelancer @ **fiverr**
-
-- 🌱 Learning **Natural Language Processing (NLP)**
-
-- 💬 Ask me about **python, TensorFlow, Scikit-Learn**
-
-- 📫 How to reach me **555anjanakavidu@gmail.com**
-
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+- 📫 How to reach me **anjanakavid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
