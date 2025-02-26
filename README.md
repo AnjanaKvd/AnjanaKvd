@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjana Kavidu</h1>
-<h3 align="center">A machine learning, NLP developer</h3>
+<h3 align="center">A Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanakvd&label=Profile%20views&color=0e75b6&style=flat" alt="anjanakvd" /> </p>
